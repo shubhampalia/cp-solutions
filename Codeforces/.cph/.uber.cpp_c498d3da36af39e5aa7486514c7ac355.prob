@@ -1,0 +1,1 @@
+{"name":"Local: uber","url":"c:\\Users\\Dell\\Desktop\\Codeforces\\uber.cpp","tests":[{"id":1658928870124,"input":"2\n10 19","output":"2"},{"id":1658928909801,"input":"5\n5 2 3 4 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Dell\\Desktop\\Codeforces\\uber.cpp","group":"local","local":true}
